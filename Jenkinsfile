@@ -1,4 +1,4 @@
-peline {
+Pipeline {
     agent {
         docker {
             image 'nginx:latest'
